@@ -1,1 +1,1 @@
-This repository has a collection articles related to Anomaly Detection and python programs written in python
+This repository has a collection of articles and programs written in python related to Anomaly Detection algorithm.
